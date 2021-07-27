@@ -1,0 +1,33 @@
+.container{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background: blue;
+}
+.box1{
+    width: 50%;
+    height: 150px;
+    background: chartreuse;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.box-sm{
+    width: 100px;
+    height: 75%;
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
